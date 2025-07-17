@@ -4,3 +4,7 @@ orgin_furnitures_csv_with_image
 origin_furnitures_csv
 real_furniture_image_set
 real_furniture_csv
+.env
+gcs_furniture_csv
+real_furnitures_csv/*
+*.json
