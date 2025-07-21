@@ -70,8 +70,8 @@ if __name__ == "__main__":
         )
 
     interior_types = [
-        # "bed",
-        # "chair",
+        "bed",
+        "chair",
         "couch",
         "desk",
         "drawer",
